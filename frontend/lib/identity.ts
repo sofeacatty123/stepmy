@@ -1,34 +1,29 @@
 export const identityProcedures = [
   {
+    icon: "🛂",
     title: "Passport",
+    description: "Renew or apply for a Malaysian passport",
     slug: "passport",
   },
+
   {
+    icon: "🪪",
     title: "MyKad",
+    description: "Apply, replace or update your MyKad",
     slug: "mykad",
   },
+
   {
+    icon: "👶",
     title: "Birth Certificate",
+    description: "Register or obtain a birth certificate",
     slug: "birth-certificate",
   },
+
   {
+    icon: "💍",
     title: "Marriage Registration",
+    description: "Register a marriage in Malaysia",
     slug: "marriage-registration",
   },
-  {
-    title: "Divorce Registration",
-    slug: "divorce-registration",
-  },
-  {
-    title: "Death Certificate",
-    slug: "death-certificate",
-  },
-  {
-    title: "Change of Address",
-    slug: "change-of-address",
-  },
-  {
-    title: "Change of Name",
-    slug: "change-of-name",
-  },
-];
+]
